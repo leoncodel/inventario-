@@ -103,4 +103,231 @@
     "INV_PROV": "XIAOM114PBAIT",
     "DESCRIPTION": "BAIT SMARTPHONE"
   }
+  
+  {
+    "ART": "0",
+    "INV_PROV": "326355630",
+    "DESCRIPCION": "AT&T COMERCIALIZ NOWIL SR"
+  },
+  {
+    "ART": "981034435",
+    "INV_PROV": "ABR-LX3",
+    "DESCRIPCION": "AT&T HONOR X86"
+  },
+  {
+    "ART": "981034437",
+    "INV_PROV": "ABR-LX3",
+    "DESCRIPCION": "AT&T HONOR X86"
+  },
+  {
+    "ART": "981015021",
+    "INV_PROV": "A3089",
+    "DESCRIPCION": "IPHONE 15 128 GB"
+  },
+  {
+    "ART": "981015025",
+    "INV_PROV": "A3089",
+    "DESCRIPCION": "IPHONE 15 128 GB"
+  },
+  {
+    "ART": "981032199",
+    "INV_PROV": "A3105",
+    "DESCRIPCION": "IPHONE 15 PROMAX 512"
+  },
+  {
+    "ART": "981032079",
+    "INV_PROV": "A3105",
+    "DESCRIPCION": "IPHONE 15 PROMAX 512"
+  },
+  {
+    "ART": "981033074",
+    "INV_PROV": "A3286",
+    "DESCRIPCION": "IPHONE 16 128GB NEGR"
+  },
+  {
+    "ART": "981034474",
+    "INV_PROV": "A3408",
+    "DESCRIPCION": "IPHONE 16 E286B ULTR"
+  },
+  {
+    "ART": "981034475",
+    "INV_PROV": "A3408",
+    "DESCRIPCION": "IPHONE 16 E286B ULTR"
+  },
+  {
+    "ART": "981020149",
+    "INV_PROV": "CPH2577",
+    "DESCRIPCION": "OPPO A58 256GB NEGRO"
+  },
+  {
+    "ART": "981026761",
+    "INV_PROV": "CPH2625",
+    "DESCRIPCION": "OPPO RENO12 5G MORAD"
+  },
+  {
+    "ART": "981024894",
+    "INV_PROV": "CPH2637",
+    "DESCRIPCION": "OPPO RENO12 F 5G NAR"
+  },
+  {
+    "ART": "981024895",
+    "INV_PROV": "CPH2637",
+    "DESCRIPCION": "OPPO RENO12 F 5G VER"
+  },
+  {
+    "ART": "981023362",
+    "INV_PROV": "CPH2637",
+    "DESCRIPCION": "OPPO A60 5G NEGRO"
+  },
+  {
+    "ART": "981023361",
+    "INV_PROV": "CPH2637",
+    "DESCRIPCION": "OPPO A60 5G LILA"
+  },
+  {
+    "ART": "981027116",
+    "INV_PROV": "CPH2669",
+    "DESCRIPCION": "OPPO A40 LILA"
+  },
+  {
+    "ART": "981029078",
+    "INV_PROV": "CPH2669",
+    "DESCRIPCION": "OPPO A60 ELANCO"
+  },
+  {
+    "ART": "981029079",
+    "INV_PROV": "CPH3669",
+    "DESCRIPCION": "OPPO A60 NEGRO"
+  },
+  {
+    "ART": "981030279",
+    "INV_PROV": "GPY-LX3",
+    "DESCRIPCION": "HONOR X5B AZUL"
+  },
+  {
+    "ART": "981030017",
+    "INV_PROV": "XT2412-2",
+    "DESCRIPCION": "MOTO G04 AZUL"
+  },
+  {
+    "ART": "981029610",
+    "INV_PROV": "XT2435-1",
+    "DESCRIPCION": "MOTO G55 5G NEGRO"
+  },
+  {
+    "ART": "981031963",
+    "INV_PROV": "XT2521-2",
+    "DESCRIPCION": "MOTO G15"
+  },
+  {
+    "ART": "981023360",
+    "INV_PROV": "Z2350",
+    "DESCRIPCION": "ZTE AKON 60 LITE"
+  },
+  {
+    "ART": "981023315",
+    "INV_PROV": "Z409BRNZCL",
+    "DESCRIPCION": "XTAOMI REDMI 14C NEG"
+  },
+  {
+    "ART": "0",
+    "INV_PROV": "2411/RNY61",
+    "DESCRIPCION": "REDMI XLAOMI TEL FOR"
+  },
+  {
+    "ART": "0",
+    "INV_PROV": "32659630",
+    "DESCRIPCION": "COMERCIALIZADORA INTCOMEX"
+  },
+  {
+    "ART": "981018054",
+    "INV_PROV": "WEB07605",
+    "DESCRIPCION": "REDMI NOTE 13 AZUL"
+  },
+  {
+    "ART": "981018055",
+    "INV_PROV": "WEB05605",
+    "DESCRIPCION": "REDMI NOTE 13 VERDE"
+  },
+  {
+    "ART": "0",
+    "INV_PROV": "048471630",
+    "DESCRIPCION": "DGL LATAM SA DE CV"
+  },
+  {
+    "ART": "981029685",
+    "INV_PROV": "OPPO RENO 12 PRO DES",
+    "DESCRIPCION": "OPPO RENO 12 PRO DES"
+  },
+  {
+    "ART": "981036409",
+    "INV_PROV": "Galaxy M5S",
+    "DESCRIPCION": "GALAXY M5S BUNDLE"
+  },
+  {
+    "ART": "981036410",
+    "INV_PROV": "Galaxy M5S",
+    "DESCRIPCION": "GALAXY M5S BUNDLE"
+  },
+  {
+    "ART": "981036412",
+    "INV_PROV": "Honor X7B",
+    "DESCRIPCION": "HONOR X7B BUNDLE"
+  },
+  {
+    "ART": "981036413",
+    "INV_PROV": "Honor X7B",
+    "DESCRIPCION": "HONOR X7B BUNDLE"
+  },
+  {
+    "ART": "981036414",
+    "INV_PROV": "Honor C24 POWER",
+    "DESCRIPCION": "MOTO E26 50 PRO"
+  },
+  {
+    "ART": "981031322",
+    "INV_PROV": "Redmi Note 14",
+    "DESCRIPCION": "BUNDLE REDMI NOTE 14"
+  },
+  {
+    "ART": "981031652",
+    "INV_PROV": "S24 Ultra",
+    "DESCRIPCION": "SAMSUNG GALAXY S24 U"
+  },
+  {
+    "ART": "0",
+    "INV_PROV": "SAMSUNG GALAXY S24 U",
+    "DESCRIPCION": "SAMSUNG GALAXY S24 U"
+  },
+  {
+    "ART": "0",
+    "INV_PROV": "158993630",
+    "DESCRIPCION": "INGRAM MICRO MEXICO SA CV"
+  },
+  {
+    "ART": "981023384",
+    "INV_PROV": "HONOR BOCINA PORTATI",
+    "DESCRIPCION": "HONOR BOCINA PORTATI"
+  },
+  {
+    "ART": "0",
+    "INV_PROV": "553859630",
+    "DESCRIPCION": "MOTOROLA COMERCIAL SA DE"
+  },
+  {
+    "ART": "981021854",
+    "INV_PROV": "MOTO EDGE 50 PRO",
+    "DESCRIPCION": "MOTO EDGE 50 PRO"
+  },
+  {
+    "ART": "981021857",
+    "INV_PROV": "MOTO EDGE 50 PRO",
+    "DESCRIPCION": "MOTO EDGE 50 PRO"
+  },
+  {
+    "ART": "981036597",
+    "INV_PROV": "Edge 60",
+    "DESCRIPCION": "MOTO EDGE 60"
+  }
+  
 ]
